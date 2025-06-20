@@ -1,0 +1,21 @@
+{
+  "d": {
+    "results": [
+      {
+        "EQUNR": "1001",
+        "CREW_ID": "BR01",
+        "CREW": "Бригада-1",
+        "WERKS": "122333",  // изменено (ранее было "122200")
+        "WERKS_NAME": "Объект Б",
+        "EQKTX": "Компрессор",
+        "EQUART": "CMPR",
+        "EARTX": "Смазочный компрессор",
+        "TYPBZ": "YY",
+        "MAPAR": "M200",
+        "HERST": "CompTech Inc.",
+        "INVNR": "INV-456",
+        "WELL": "Well-9"
+      }
+    ]
+  }
+}
